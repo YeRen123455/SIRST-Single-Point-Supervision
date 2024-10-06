@@ -66,6 +66,6 @@ python Baseline_NUAA.py
 
 ## SIRST Label Geneartion Software
 
-Based on the algorithm in the above paper, we developed a single-point annotation software. [Download dir]([https://github.com/YimianDai/sirst](https://pan.baidu.com/s/126rl8KuF96W1QmR7v8GK7w?pwd=u0hn)) 
+Based on the algorithm in the above paper, we developed a single-point annotation software. [Download dir](https://pan.baidu.com/s/126rl8KuF96W1QmR7v8GK7w?pwd=u0hn) 
 
 ![image](1.gif)
