@@ -1,7 +1,7 @@
-## Infrared-small-target-detection-with-single-point-supervision
+# Infrared-small-target-detection-with-single-point-supervision
 <br>
 
-# Our paper has been accepted by `IEEE ICCV-2023`. Our team will release more interesting works and applications on SIRST soon. Please keep following our repository.
+## Our paper has been accepted by `IEEE ICCV-2023`. Our team will release more interesting works and applications on SIRST soon. Please keep following our repository.
 
 ## Algorithm Introduction
 
