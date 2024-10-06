@@ -42,14 +42,6 @@ If you find the code useful, please consider citing our paper using the followin
 
 ## Usage
 
-#### On windows:
-
-```
-Click on train.py and run it. 
-```
-
-#### On Ubuntu:
-
 #### 1. Preprocessing.
 
 ```bash
