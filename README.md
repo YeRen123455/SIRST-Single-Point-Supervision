@@ -48,13 +48,18 @@ If you find the code useful, please consider citing our paper using the followin
 
 #### 1. Preprocessing.
 
+Replace the example image in ../dataset/final_dataset_final/NUAA-SIRST/images with the original full images.
+Replace the example mask  in ../dataset/final_dataset_final/NUAA-SIRST/masks  with the original full masks.
+
 ```bash
+cd final_size_Prior_code
 python generate_single_point_Prior.py
 
 ```
 #### 2. Pseudo Label Generation.
 
 ```bash
+cd final_size_Prior_code
 python Baseline_NUAA.py
 ```
 
