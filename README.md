@@ -7,8 +7,6 @@
 
 ## Algorithm Introduction
 
-Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection, Boyang Li, Chao Xiao, Longguang Wang, and Yingqian Wang, ICCV 2023 [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Monte_Carlo_Linear_Clustering_with_Single-Point_Supervision_is_Enough_for_ICCV_2023_paper.pdf)
-
 We propose a Monte Carlo linear clustering (MCLC) method to acheive high-performance infrared small target segmentation with only single point annotation. Experimental results on several datasets (e.g., NUAA, NUDT, IRSTD-1K, and NUDT-Sea) verify the effectiveness of our method. The contribution of this paper are as follows:
 
 1. We propose the first single point supervised method to achieve SIRST detection.
