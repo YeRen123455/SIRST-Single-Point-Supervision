@@ -1,0 +1,4 @@
+Repeated_num:10	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+wo_type_add_noise_crf		mIoU:train_F[0.719532]	mIoU:train_P[0.369792]	mIoU:train_S[0.726962]	mIoU:train_E[0.724302]	
+Repeated_num:50	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+wo_type_add_noise_crf		mIoU:train_F[0.742696]	mIoU:train_P[0.373684]	mIoU:train_S[0.759384]	mIoU:train_E[0.731555]	

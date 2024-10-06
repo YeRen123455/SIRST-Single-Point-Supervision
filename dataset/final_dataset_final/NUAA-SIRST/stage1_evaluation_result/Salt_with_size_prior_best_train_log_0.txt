@@ -1,0 +1,25 @@
+Target_threshold:0.7	Repeated_num:50	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+with_type_wo_noise		mIoU:train_F[0.428983]	Target_threshold:0.7	Repeated_num:50	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+with_type_wo_noise		mIoU:train_F[0.428983]	mIoU:train_P[0.428983]	mIoU:train_S[0.428983]	mIoU:train_E[0.428983]	
+wo_type_add_noise_crf		mIoU:train_F[0.770211]	mIoU:train_P[0.770211]	mIoU:train_S[0.770211]	mIoU:train_E[0.770211]	
+wo_type_add_noise_T		mIoU:train_F[0.71335]	mIoU:train_P[0.71335]	mIoU:train_S[0.71335]	mIoU:train_E[0.71335]	
+Target_threshold:0.7	Repeated_num:50	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+with_type_wo_noise		mIoU:train_F[0.428983]	mIoU:train_P[0.435484]	mIoU:train_S[0.397843]	mIoU:train_E[0.503357]	
+wo_type_add_noise_crf		mIoU:train_F[0.771158]	mIoU:train_P[0.556604]	mIoU:train_S[0.769711]	mIoU:train_E[0.786989]	
+wo_type_add_noise_T		mIoU:train_F[0.735903]	mIoU:train_P[0.636364]	mIoU:train_S[0.717839]	mIoU:train_E[0.776727]	
+Target_threshold:0.7	Repeated_num:50	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+with_type_wo_noise		mIoU:train_F[0.428983]	mIoU:train_P[0.435484]	mIoU:train_S[0.397843]	mIoU:train_E[0.503357]	
+wo_type_add_noise_crf		mIoU:train_F[0.774371]	mIoU:train_P[0.636364]	mIoU:train_S[0.774946]	mIoU:train_E[0.780662]	
+wo_type_add_noise_T		mIoU:train_F[0.72306]	mIoU:train_P[0.595]	mIoU:train_S[0.723483]	mIoU:train_E[0.729252]	
+Target_threshold:0.7	Repeated_num:50	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+with_type_wo_noise		mIoU:train_F[0.45319]	mIoU:train_P[0.433099]	mIoU:train_S[0.405742]	mIoU:train_E[0.584367]	
+wo_type_add_noise_crf		mIoU:train_F[0.754274]	mIoU:train_P[0.651163]	mIoU:train_S[0.760012]	mIoU:train_E[0.748597]	
+wo_type_add_noise_T		mIoU:train_F[0.712993]	mIoU:train_P[0.535714]	mIoU:train_S[0.711062]	mIoU:train_E[0.72636]	
+Target_threshold:0.7	Repeated_num:50	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+with_type_wo_noise		mIoU:train_F[0.45319]	mIoU:train_P[0.433099]	mIoU:train_S[0.405742]	mIoU:train_E[0.584367]	
+wo_type_add_noise_crf		mIoU:train_F[0.75179]	mIoU:train_P[0.605714]	mIoU:train_S[0.762388]	mIoU:train_E[0.739326]	
+wo_type_add_noise_T		mIoU:train_F[0.72003]	mIoU:train_P[0.586957]	mIoU:train_S[0.718924]	mIoU:train_E[0.728975]	
+Target_threshold:0.7	Repeated_num:10	Noise_type:salt	Noise_intensity_amount:0.05	SP_num:9	
+with_type_wo_noise		mIoU:train_F[0.497435]	mIoU:train_P[0.333333]	mIoU:train_S[0.469421]	mIoU:train_E[0.57759]	
+wo_type_add_noise_crf		mIoU:train_F[0.738802]	mIoU:train_P[0.364583]	mIoU:train_S[0.732794]	mIoU:train_E[0.771001]	
+wo_type_add_noise_T		mIoU:train_F[0.601446]	mIoU:train_P[0.329268]	mIoU:train_S[0.607682]	mIoU:train_E[0.605939]	
