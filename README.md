@@ -3,6 +3,8 @@
 
 ## Our paper has been accepted by `IEEE ICCV-2023`. Our team will release more interesting works and applications on SIRST soon. Please keep following our repository.
 
+![outline](MCLC1.jpg)
+
 ## Algorithm Introduction
 
 Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection, Boyang Li, Chao Xiao, Longguang Wang, and Yingqian Wang, ICCV 2023 [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Monte_Carlo_Linear_Clustering_with_Single-Point_Supervision_is_Enough_for_ICCV_2023_paper.pdf)
@@ -14,6 +16,8 @@ We propose a Monte Carlo linear clustering (MCLC) method to acheive high-perform
 2. Inspired by the inherent characteristic of SIRST, a simple yet effective linear clustering approach with random noise-guided Monte Carlo regularization is proposed to coarsely extract and further refine the candidate target region.
 
 3. Ablation study reveals that pixel-level labels are not necessary for SIRST detection while single-point supervision is strong enough.
+
+![outline](MCLC2.jpg)
 
 ## Citation
 
